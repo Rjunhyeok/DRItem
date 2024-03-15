@@ -1,0 +1,4 @@
+name: DRItem
+version: '1.0-SNAPSHOT'
+main: kr.squirrel.item.Main
+api-version: 1.19
